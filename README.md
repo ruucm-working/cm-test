@@ -1,1 +1,2 @@
 # cm-test
+Lorem Ipsum
